@@ -92,7 +92,7 @@ Beat: Geographic Beat where call was located
 6. Officer Gender =N having Highest Reporting Months then compare to Male and Female
 7. CIT Certified Indicator is Active after 2016 (Reported Year Range b/w 1900 -2020)
 8. April month highest CIT Certified Indicator values occurred
-9. 
+
 **Machine Learning Outcomes**
 
 **Evaluation Metric: F-Score**
@@ -106,8 +106,9 @@ Beat: Geographic Beat where call was located
 7) By Using Xgboost, F1_Score is 87% which is less slight than Random Forest Model.
 8) By Using SVM, F1_Score is 72% which is less than xgboost model.
 9) By comparing all the above implemented models, we can conclude that Randomforest model has improved the performance of the model.
-10) 
+
 **Conclusion:** 
+
 Classificaion Problem is overcomed by evaluating variou factors such as Precision, Sensitivity, Recall, Specificity, F-Score, ROC-AUC Curve.Among all the algorithms between KNN,RandomForest,Xgboost,SVM ,"Randomforest model has improved the performance of the model"
 
 
