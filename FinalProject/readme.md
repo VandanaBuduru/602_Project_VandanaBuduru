@@ -109,7 +109,7 @@ Beat: Geographic Beat where call was located
 
 **Conclusion:** 
 
-Classificaion Problem is overcomed by evaluating variou factors such as Precision, Sensitivity, Recall, Specificity, F-Score, ROC-AUC Curve.Among all the algorithms between KNN,RandomForest,Xgboost,SVM ,"Randomforest model has improved the performance of the model"
+Classification Problem is overcomed by evaluating various factors such as Precision, Sensitivity, Recall, Specificity, F-Score, ROC-AUC Curve. Among all the algorithms between KNN,RandomForest,Xgboost,SVM ,"Randomforest model has improved the performance of the model"
 
 
 
